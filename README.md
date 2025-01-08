@@ -1,5 +1,5 @@
 # AoC
-Advent of Code, 2024 edition.
+The Advent of Code.
 
 The Advent of Code is an annual event that runs for 25 days in December and finishes on the 25th.  It is best described here: <a href="https://adventofcode.com/">https://adventofcode.com/</a>.
 
